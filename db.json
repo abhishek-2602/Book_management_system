@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Operating System",
+      "author": "Abhishek",
+      "genre": "Programming",
+      "year": 1999
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James clear",
+      "genre": "Sci-Fi",
+      "year": 2008
+    },
+    {
+      "title": "The Subtle Art of not giving  f*ck",
+      "author": "Mark Mansion",
+      "genre": "Fantasy",
+      "year": 2016,
+      "id": 4
+    }
+  ]
+}
